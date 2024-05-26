@@ -1,4 +1,12 @@
-## Hi there 👋
+Breakout Ross
+
+Welcome to Breakout Ross!
+
+Inspired by Donald Trump's announcement that he will release Ross Ulbricht from prison if elected president, we've created the first version of this game to celebrate that! This is just the beginning.
+
+In less than a week, we will release a new version of the game that will track scores. We will start airdropping rewards to top players at random intervals throughout the next month.
+
+Feel free to play the test version while we work on the final game. Enjoy, and good luck!
 
 <!--
 **BreakoutRoss/BreakoutRoss** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
